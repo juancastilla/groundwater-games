@@ -1,2 +1,2 @@
 # groundwater-games
-A collection of games to teach hydrogeology and groundwater science
+Games for teaching hydrogeology and groundwater science
